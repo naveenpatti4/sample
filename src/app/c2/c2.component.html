@@ -1,0 +1,8 @@
+<div>
+  <p>c2</p>
+    
+  <ul>
+    <li  class= "diV" *ngFor = "let d of ary3" #completed > <app-task></app-task>{{d}} <button (click) = "taskCompleted(completed)"> - </button></li>
+  </ul>
+</div>
+<app-remainder></app-remainder>

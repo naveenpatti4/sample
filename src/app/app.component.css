@@ -1,0 +1,18 @@
+/* div{
+    height: 200px;
+    width: 200px;
+    box-shadow: 2px 2px 6px gray;
+    border: 2px solid white;
+    margin: 20px;
+}
+.divText{
+    color:white;
+    position: absolute;
+    margin: 80px;
+} */
+.container{
+    margin: 40px;
+    height: 600px;
+    width: 400px;
+    box-shadow: 2px 2px 6px gray;
+}
